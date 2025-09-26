@@ -1,0 +1,28 @@
+# Site settings
+title: "Blue Bananas FTC Team 21480"
+description: "Official website of FIRST FTC robotics team 21480 Blue Bananas"
+url: "https://ftc-24180.github.io"
+baseurl: "/JekyllTest"
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
