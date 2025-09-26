@@ -13,6 +13,8 @@ title: Home
 
 Blue Bananas FTC Team 21480 is a dedicated group of students passionate about robotics, engineering, and STEM education. We compete in the FIRST Tech Challenge (FTC), where we design, build, and program robots to complete challenging tasks.
 
+[Learn more about our team →]({{ '/about/' | relative_url }})
+
 ## What is FIRST Tech Challenge?
 
 FIRST Tech Challenge (FTC) is a robotics competition for students in grades 7-12. Teams design, build, program, and operate robots to compete in an alliance format against other teams. The FTC program helps students develop:
@@ -38,6 +40,8 @@ To inspire young minds through robotics and engineering while building skills fo
 - Programming and testing
 - Strategy development
 - Tournament participation
+
+[Discover our robot design and capabilities →]({{ '/robot/' | relative_url }})
 
 ### Outreach
 - Elementary school robotics demonstrations
